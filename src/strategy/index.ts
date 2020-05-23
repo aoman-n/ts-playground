@@ -1,4 +1,3 @@
-
 interface Comparator {
   compare: (user1: User, user2: User) => number
 }
@@ -81,3 +80,5 @@ const myClass3 = new MyClass(weightComparator)
 console.log(myClass1.compare(user1, user2)) // -1
 console.log(myClass2.compare(user1, user2)) // 1
 console.log(myClass3.compare(user1, user2)) // 0
+
+export {};
