@@ -1,3 +1,3 @@
-## learn-design-pattern
+# ts-playground
 
-https://www.techscore.com/tech/DesignPattern/index.html/
+Java言語で学ぶデザインパターン入門
